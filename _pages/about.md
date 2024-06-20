@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-M.A. Computational Linguistics and Neuroinformatics, the University of Zürich<br>
-B.S. Mathematics, Sorbonne Université<br>
-B.A. Linguistics, the Ohio State University<br>
+M.A. Computational Linguistics and Neuroinformatics, <span style="font-variant: small-caps;">Universität Zürich</span><br>
+B.S. Mathematics, <span style="font-variant: small-caps;">Sorbonne Université</span><br>
+B.A. Linguistics, <span style="font-variant: small-caps;">The OHIO STATE University</span><br><br>
 
 
 I am a second year Master's student at the [Department of Computational Linguistics of University of Z\:{u}rich](https://www.cl.uzh.ch/en.html). I am currently working on my thesis project on linking songbirds speech and neuronal activity at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html).
