@@ -14,9 +14,9 @@ About Me
 =====
 I am a second year Master's student at the [Department of Computational Linguistics of University of Z\:{u}rich](https://www.cl.uzh.ch/en.html). I am currently working on my thesis project on linking songbirds speech and neuronal activity at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html).
 
-I love Indo-European Linguistics and Musical Composition. I traveled around Europe to take Ancient Language classes around and then settled down at Paris to study musical composition at the CRR de Paris and Saint-Maur.
+I love Indo-European Linguistics and Musical Composition. For indo-european, I traveled around Europe to take Ancient Language classes around. I was offered a residency scholarship to stay at Roman villa to study humanities and philosophy in Latin at 2018.
 
-and then I did pure math and musical composition. I started with keyboards at 6 and fell in love with it. Later I picked up Organ and Harp at Paris.
+and then settled down at Paris to study musical composition at the CRR de Paris and Saint-Maur.
 
 
 Musical Training
