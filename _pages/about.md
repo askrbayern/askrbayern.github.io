@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Site under construction"
 author_profile: true
 redirect_from: 
   - /about/
