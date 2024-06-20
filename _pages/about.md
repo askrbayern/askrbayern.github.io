@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Hello :)"
+title: "Education
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+M.A. Computational Linguistics and Neuroinformatics, the University of Zürich<br>
+B.S. Mathematics, Sorbonne Université<br>
+B.A. Linguistics, the Ohio State University<br>
 
-Intro
-=====
+
 I am a second year Master's student at the [Department of Computational Linguistics of University of Z\:{u}rich](https://www.cl.uzh.ch/en.html). I am currently working on my thesis project on linking songbirds speech and neuronal activity at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html).
 
 I love Indo-European Linguistics and Musical Composition. I traveled around Europe to take Ancient Language classes around and then settled down at Paris to study musical composition at the CRR de Paris and Saint-Maur.
@@ -27,11 +29,6 @@ Organ course with
 
 
 
-Education
-=====
-M.A. Computational Linguistics and Neuroinformatics, the University of Z\"{u}rich
-B.S. Mathematics, Sorbonne Universit\'{e}
-B.A. Linguistics, the Ohio State University
 
 Musical Training
 -----
