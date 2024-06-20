@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-M.A. Computational Linguistics and Neuroinformatics, <span style="font-size: 1.2em; letter-spacing: 0.1em;">Universität Zürich</span><br>
-B.S. Mathematics, <span style="font-size: 1.2em; letter-spacing: 0.1em;">Sorbonne Université</span><br>
-B.A. Linguistics, <span style="font-size: 1.2em; letter-spacing: 0.1em;">The Ohio State University</span><br><br>
+M.A. Computational Linguistics and Neuroinformatics, Universität Zürich<br>
+B.S. Mathematics, Sorbonne Université<br>
+B.A. Linguistics, The Ohio State University<br>
 
 About Me
 =====
